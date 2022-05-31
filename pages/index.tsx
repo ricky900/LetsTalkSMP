@@ -23,12 +23,6 @@ const Home: NextPage = () => {
 
 
         <div className={styles.grid}>
-          <a  className={styles.card}>
-            
-            <p></p>
-          </a>
-
-          
 
           <a
 
