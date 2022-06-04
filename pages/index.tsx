@@ -18,7 +18,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
       <h1 className={styles.title}>
         Welcome to the official page of 
-        <Image src='/logo.png' alt='' width='250' height='250'/>
+        <Image src='/logo.png' alt='logo' width='250' height='250'/>
         </h1>
 
 
