@@ -50,6 +50,10 @@ export default function Navbar() {
                 <div className="hidden md:flex">
 
 
+                    <NavLink to="/contact">
+                        contact
+                    </NavLink>
+
                     <NavLink to="/about">
                         INFO
                     </NavLink>
