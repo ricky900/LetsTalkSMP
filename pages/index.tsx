@@ -17,7 +17,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
       <h1 className={styles.title}>
-        <Image src='/logo.png' alt='' width='300' height='300'/>
+        <Image src='/logo.png' alt='' width='250' height='250'/>
         </h1>
 
 
