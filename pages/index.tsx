@@ -33,7 +33,7 @@ const Home: NextPage = () => {
           <a
             className={styles.card}
           >
-            <h2>Launching on June 10 2022</h2>
+            <h2>Launching on June 11 2022</h2>
           </a>
         </div>
       </main>
